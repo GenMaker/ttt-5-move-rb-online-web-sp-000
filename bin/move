@@ -15,5 +15,3 @@ input_to_index(input)
 index = input
 
 move(board,index,character)
-
-display_board(board)
